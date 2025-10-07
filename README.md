@@ -525,4 +525,4 @@ Join Linux Fundamentals Part 2!
 Answer : No answer needed
 
 
-### **okay guys see all in "Linux Fundamentals Part 2"**
+### **okay guys see you all in "Linux Fundamentals Part 2"**
