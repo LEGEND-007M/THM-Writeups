@@ -510,7 +510,7 @@ Answer : No answer needed
 
 
 
-Task 9   ### **Linux Fundamentals Part 2**
+Task 9    **Linux Fundamentals Part 2**
 
 
 Visit part two of the Linux fundamentals series here! https://tryhackme.com/room/linuxfundamentalspart2
